@@ -3,7 +3,7 @@ This library extend [google vision](https://developers.google.com/vision/) . And
 for reading text from image you have to give image **Uri** or **Bitmap**.
 
 Sample
-![Alt Text](https://github.com/mahimrocky/TextRecognizer/blob/master/screenshot.png |height=200)
+![Alt Text](https://github.com/mahimrocky/TextRecognizer/blob/master/screenshot.png | height=200)
 # Setup
 Setup part is simple
 
