@@ -3,7 +3,7 @@ This library extend [google vision](https://developers.google.com/vision/) . And
 for reading text from image you have to give image **Uri** or **Bitmap**.
 
 Sample
-![Alt Text](https://github.com/mahimrocky/TextRecognizer/blob/master/screenshot.png)
+![Alt Text](https://github.com/mahimrocky/TextRecognizer/blob/master/screenshot.png =250x250)
 # Setup
 Setup part is simple
 
@@ -33,7 +33,7 @@ dependencies {
                 .getCallback(new TextExtractCallback() {
                     @Override
                     public void onGetExtractText(List<String> textList) {
-                        // Here ypu will get list of text
+                        // Here you will get list of text
 
                     }
                 });
