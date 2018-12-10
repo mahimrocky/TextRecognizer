@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="file_provider_authority">com.skyhope.textrecognizer.file_provider</string>
+</resources>
